@@ -20,4 +20,4 @@ git commit -m "Add HTML activity: images, hyperlinks, multimedia, useful tags, D
 git push origin cafe-shayna-act-2
 ```
 
-Then open a Pull Request from your activity branch into `main`.
+Then open a Pull Request from the activity branch into `main`.
