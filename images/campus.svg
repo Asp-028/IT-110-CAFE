@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550">
+<rect width="900" height="550" fill="#eaf2ff"/><rect y="390" width="900" height="160" fill="#b8d7a8"/>
+<polygon points="120,390 450,120 780,390" fill="#315b8a"/><rect x="220" y="285" width="460" height="105" fill="#f7f3e8"/>
+<rect x="410" y="315" width="80" height="75" fill="#8b5e3c"/><text x="450" y="75" text-anchor="middle" font-family="Arial" font-size="42" fill="#1e3a5f">Campus View</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550">
+<rect width="900" height="550" fill="#f4efe7"/><rect y="350" width="900" height="200" fill="#c69c6d"/>
+<rect x="190" y="190" width="520" height="160" rx="12" fill="#fff"/><rect x="240" y="215" width="170" height="110" fill="#b9d8f5"/>
+<rect x="470" y="230" width="120" height="85" fill="#f0d36a"/><circle cx="650" cy="250" r="55" fill="#76a86b"/>
+<text x="450" y="95" text-anchor="middle" font-family="Arial" font-size="42" fill="#333">Study Desk</text>
+</svg>

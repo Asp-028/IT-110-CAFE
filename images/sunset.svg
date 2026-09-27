@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550">
+<rect width="900" height="550" fill="#f6c5a6"/><circle cx="690" cy="210" r="105" fill="#f5a623"/>
+<rect y="370" width="900" height="180" fill="#496b5a"/><polygon points="0,370 250,180 500,370" fill="#304b40"/>
+<polygon points="350,370 610,160 900,370" fill="#38564a"/><text x="450" y="85" text-anchor="middle" font-family="Arial" font-size="42" fill="#fff">Sunset Landscape</text>
+</svg>
